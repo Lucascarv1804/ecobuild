@@ -37,9 +37,15 @@
 
 ## 🖌️ Protótipo Lo-Fi
 
-[![Protótipo Lo-Fi](https://github.com/user-attachments/assets/f3d4e7bf-eccf-4d74-9aae-499045b8afc1)](URL_DO_VIDEO)
+[![Protótipo Lo-Fi](https://github.com/user-attachments/assets/f3d4e7bf-eccf-4d74-9aae-499045b8afc1)](https://www.figma.com/design/D0bygnRLEdzC9fc3lOx9w3/Untitled?node-id=1-2&t=UKStnUdpo9uVuB6L-1)
 
 [🔗 Link para o Figma](https://www.figma.com/design/D0bygnRLEdzC9fc3lOx9w3/Untitled?node-id=1-2&t=UKStnUdpo9uVuB6L-1)
+
+## 🗂️ Quadro de Atividades no Trello
+
+Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
+
+[🔗 Link para o Trello - EcoBuild Quadro de Atividades](https://trello.com/invite/b/66ce9a537342df7bbc243bc0/ATTI2c21b7bd0577e32d9082624d67db9e7f0C790E21/ecobuild-quadro-de-atividades)
 
 ## 🛠️ Tecnologias Utilizadas
 
