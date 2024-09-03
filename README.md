@@ -67,8 +67,3 @@ Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
 ### Hospedagem
 - **Heroku**
 - **Netlify**
-
-## 🚧 Instalação e Execução
-
-### Pré-requisitos
-- Node.js e npm instalados
