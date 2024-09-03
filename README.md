@@ -50,20 +50,12 @@ Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
-- **React.js**
+- **Javascript ou React.js**
 - **HTML5**
 - **CSS3**
 
 ### Backend
-- **Node.js**
-- **Express.js**
+- **Django**
 
 ### Banco de Dados
-- **MongoDB**
-
-### Autenticação
-- **JWT (JSON Web Tokens)**
-
-### Hospedagem
-- **Heroku**
-- **Netlify**
+- **MySQL**
