@@ -20,4 +20,5 @@ O principal objetivo do EcoBuild é desenvolver uma plataforma online que permit
 - JavaScript
 
 ## Histórias do Usuário:
+![Captura de tela 2024-09-03 121832](https://github.com/user-attachments/assets/fc828a41-ebe9-434a-8394-2933001aaa95)
 Link: https://trello.com/b/oL2Wg8nO/historias-de-usuario-do-ecobuild
