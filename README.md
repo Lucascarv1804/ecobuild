@@ -2,6 +2,11 @@
 
 **EcoBuild** é uma plataforma web desenvolvida para facilitar a troca, venda ou doação de materiais de construção. Inspirada no modelo de marketplaces como a OLX, a **EcoBuild** oferece um espaço dedicado exclusivamente para itens de construção, ajudando a reduzir o desperdício e promover a sustentabilidade no setor.
 
+## 🌴 ODS
+- ODS 9: Indústria, inovação e infraestrutura.
+- ODS 11: Cidade e comunidade sustentável.
+- ODS 12: Consumo e produção responsáveis.
+
 ## 🎯 Objetivo
 
 - Desenvolver uma plataforma que permita a reutilização de materiais de construção, promovendo a sustentabilidade.
