@@ -42,8 +42,6 @@
 
 ## 🖌️ Protótipo Lo-Fi
 
-[![Protótipo Lo-Fi](https://github.com/user-attachments/assets/f3d4e7bf-eccf-4d74-9aae-499045b8afc1)](https://www.figma.com/design/D0bygnRLEdzC9fc3lOx9w3/Untitled?node-id=1-2&t=UKStnUdpo9uVuB6L-1)
-
 [🔗 Link para o Figma](https://www.figma.com/design/D0bygnRLEdzC9fc3lOx9w3/Untitled?node-id=1-2&t=UKStnUdpo9uVuB6L-1)
 
 ## 🗂️ Quadro de Atividades no Trello
