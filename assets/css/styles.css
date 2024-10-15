@@ -10,20 +10,19 @@
 :root {
     --main-green-color: #37AB48;
     --hover-green: #378544;
-    --btn-border-radius: 16px;
+    --default-border-radius: 10px;
     --btn-padding: .7rem 1.5rem;
     --logo-width: 160px;
     --header-padding: 2rem 1rem;
-    --header-border: 1px solid #ededed;
+    --default-border: 1px solid #ededed;
 }
-
 /* CABEÇALHO */
 header {
     display: flex;
     align-items: center;
     justify-content: space-around;
     padding: var(--header-padding);
-    border-bottom: var(--header-border);
+    border-bottom: var(--default-border);
 }
 
 .logo img {
@@ -249,7 +248,7 @@ header {
     color: #fff;
     text-transform: capitalize;
     padding: var(--btn-padding);
-    border-radius: var(--btn-border-radius);
+    border-radius: var(--default-border-radius);
     transition: .3s;
 }
 
