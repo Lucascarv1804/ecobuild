@@ -51,6 +51,9 @@ Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
 ## 👷 Diagrama de Atividades
 [🔗 Link para o Diagrama de Atividades](https://lucid.app/lucidchart/5e772447-e51c-463a-8f76-ef1908555f2e/edit?viewport_loc=-97%2C1%2C3000%2C1387%2C0_0&invitationId=inv_f78084c2-6c8a-4d69-b94f-c26ff5e2c948)
 
+## Programação em Par 
+Não foi utilizado programação em par, pois as histórias selecionadas não necessitavam de linguagem de programação, foi inteiramente feita com HTML5 e CSS3.
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
