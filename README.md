@@ -37,18 +37,19 @@
 
 ## 👥 Histórias do Usuário
 
-![Captura de tela 2024-09-03 121832](https://github.com/user-attachments/assets/fc828a41-ebe9-434a-8394-2933001aaa95)  
+![image](https://github.com/user-attachments/assets/39c3ba48-70d3-4da7-8df2-3fa4acdf6f83)
 [🔗 Link para o Trello](https://trello.com/b/oL2Wg8nO/historias-de-usuario-do-ecobuild)
 
 ## 🖌️ Protótipo Lo-Fi
-
 [🔗 Link para o Figma](https://www.figma.com/design/D0bygnRLEdzC9fc3lOx9w3/Untitled?node-id=1-2&t=UKStnUdpo9uVuB6L-1)
 
 ## 🗂️ Quadro de Atividades no Trello
 
 Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
-
 [🔗 Link para o Trello - EcoBuild Quadro de Atividades](https://trello.com/invite/b/66ce9a537342df7bbc243bc0/ATTI2c21b7bd0577e32d9082624d67db9e7f0C790E21/ecobuild-quadro-de-atividades)
+
+## 👷 Diagrama de Atividades
+link aqui arthur!!!
 
 ## 🛠️ Tecnologias Utilizadas
 
