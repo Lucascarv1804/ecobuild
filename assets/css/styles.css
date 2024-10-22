@@ -16,13 +16,19 @@
     --header-padding: 2rem 1rem;
     --default-border: 1px solid #ededed;
 }
+
+body {
+    background-color: #f8f8f8;
+}
+
 /* CABEÇALHO */
 header {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    padding: var(--header-padding);
+    justify-content: space-between;
+    padding: 2rem 14rem;
     border-bottom: var(--default-border);
+    background-color: #fff;
 }
 
 .logo img {
@@ -30,7 +36,7 @@ header {
 }
 
 .search-bar input {
-    width: 600px;
+    width: 700px;
     padding: .6rem;
     border: 1px solid #d3d3d3;
     border-radius: 12px;
@@ -52,7 +58,6 @@ header {
     font-size: 16px;
     color: #1f1f1f;
     transition: .2s;
-    /* font-weight: 600; */
     text-decoration: none;
 }
 
@@ -109,6 +114,10 @@ header {
     background-color: var(--hover-green);
 }
 /* FIM DO CABEÇALHO */
+
+main {
+    background-color: #f8f8f8;
+}
 
 /* Carrousel */
 .slider-container {
@@ -264,3 +273,5 @@ footer {
     justify-content: center;
     height: 200px;
 }
+
+/* RESPONSIVIDADE */
