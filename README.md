@@ -3,6 +3,7 @@
 **EcoBuild** é uma plataforma web desenvolvida para facilitar a troca, venda ou doação de materiais de construção. Inspirada no modelo de marketplaces como a OLX, a **EcoBuild** oferece um espaço dedicado exclusivamente para itens de construção, ajudando a reduzir o desperdício e promover a sustentabilidade no setor.
 
 ## 🌴 ODS
+
 - ODS 9: Indústria, inovação e infraestrutura.
 - ODS 11: Cidade e comunidade sustentável.
 - ODS 12: Consumo e produção responsáveis.
@@ -50,15 +51,22 @@ Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
 
 [🔗 Link para o Trello - EcoBuild Quadro de Atividades](https://trello.com/invite/b/66ce9a537342df7bbc243bc0/ATTI2c21b7bd0577e32d9082624d67db9e7f0C790E21/ecobuild-quadro-de-atividades)
 
+## Programação em Par
+
+![Programação em Par](images/Programacao_em_par.jpg)
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Frontend
+
 - **Javascript ou React.js**
 - **HTML5**
 - **CSS3**
 
 ### Backend
+
 - **Django**
 
 ### Banco de Dados
+
 - **MySQL**
