@@ -53,7 +53,7 @@ Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
 
 ## Programação em Par
 
-![Programação em Par](images/Programacao_em_par.jpg)
+![Programação em Par](assets/images/Programacao_em_par.jpg)
 
 ## 🛠️ Tecnologias Utilizadas
 
