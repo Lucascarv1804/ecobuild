@@ -38,28 +38,22 @@
 
 ## 👥 Histórias do Usuário
 
-![image](https://github.com/user-attachments/assets/2a274d3c-12dc-4bd0-ae87-0058e7203956)
+![Captura de tela 2024-09-03 121832](https://github.com/user-attachments/assets/fc828a41-ebe9-434a-8394-2933001aaa95)  
 [🔗 Link para o Trello](https://trello.com/b/oL2Wg8nO/historias-de-usuario-do-ecobuild)
 
 ## 🖌️ Protótipo Lo-Fi
+
 [🔗 Link para o Figma](https://www.figma.com/design/D0bygnRLEdzC9fc3lOx9w3/Untitled?node-id=1-2&t=UKStnUdpo9uVuB6L-1)
 
 ## 🗂️ Quadro de Atividades no Trello
 
 Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
+
 [🔗 Link para o Trello - EcoBuild Quadro de Atividades](https://trello.com/invite/b/66ce9a537342df7bbc243bc0/ATTI2c21b7bd0577e32d9082624d67db9e7f0C790E21/ecobuild-quadro-de-atividades)
 
-<<<<<<< HEAD
 ## Programação em Par
 
 ![Programação em Par](images/Programacao_em_par.jpg)
-=======
-## 👷 Diagrama de Atividades
-[🔗 Link para o Diagrama de Atividades](https://lucid.app/lucidchart/5e772447-e51c-463a-8f76-ef1908555f2e/edit?viewport_loc=-97%2C1%2C3000%2C1387%2C0_0&invitationId=inv_f78084c2-6c8a-4d69-b94f-c26ff5e2c948)
-
-## Programação em Par 
-Não foi utilizado programação em par, pois as histórias selecionadas não necessitavam de linguagem de programação, foi inteiramente feita com HTML5 e CSS3.
->>>>>>> 80d397aa68ca7ef4f460ae1e3e7c5e33f1be5c72
 
 ## 🛠️ Tecnologias Utilizadas
 
