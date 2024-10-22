@@ -37,9 +37,7 @@
   Acesse guias e tutoriais sobre como usar a plataforma e práticas de construção sustentável.
 
 ## 👥 Histórias do Usuário
-
-![Captura de tela 2024-09-03 121832](https://github.com/user-attachments/assets/fc828a41-ebe9-434a-8394-2933001aaa95)  
-[🔗 Link para o Trello](https://trello.com/b/oL2Wg8nO/historias-de-usuario-do-ecobuild)
+![image](https://github.com/user-attachments/assets/39c3ba48-70d3-4da7-8df2-3fa4acdf6f83)
 
 ## 🖌️ Protótipo Lo-Fi
 
