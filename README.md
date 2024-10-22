@@ -37,7 +37,7 @@
 
 ## 👥 Histórias do Usuário
 
-![image](https://github.com/user-attachments/assets/39c3ba48-70d3-4da7-8df2-3fa4acdf6f83)
+![image](https://github.com/user-attachments/assets/2a274d3c-12dc-4bd0-ae87-0058e7203956)
 [🔗 Link para o Trello](https://trello.com/b/oL2Wg8nO/historias-de-usuario-do-ecobuild)
 
 ## 🖌️ Protótipo Lo-Fi
