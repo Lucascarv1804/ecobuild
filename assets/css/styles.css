@@ -16,13 +16,15 @@
     --header-padding: 2rem 1rem;
     --default-border: 1px solid #ededed;
 }
+
 /* CABEÇALHO */
 header {
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    padding: var(--header-padding);
+    justify-content: space-between;
+    padding: 2rem 14rem;
     border-bottom: var(--default-border);
+    background-color: #fff;
 }
 
 .logo img {
@@ -30,7 +32,7 @@ header {
 }
 
 .search-bar input {
-    width: 600px;
+    width: 700px;
     padding: .6rem;
     border: 1px solid #d3d3d3;
     border-radius: 12px;
@@ -52,7 +54,6 @@ header {
     font-size: 16px;
     color: #1f1f1f;
     transition: .2s;
-    /* font-weight: 600; */
     text-decoration: none;
 }
 
@@ -182,7 +183,7 @@ header {
 }
 
 .catalog-header a {
-    color: #82AFD6;
+    color: var(--main-green-color);
     text-decoration: none;
     font-size: 15px;
 }
@@ -195,20 +196,55 @@ header {
     padding-bottom: 2rem;
 }
 
+.item{
+    border: var(--default-border);
+    padding: 1rem;
+    border-radius: var(--default-border-radius);
+    text-align: center;
+}
+
+.item-name {
+    margin-bottom: 1rem;
+}
+
+.item-quant {
+    font-weight: normal;
+    color: #666666;
+    font-size: .9rem;
+}
+
 .item-image img {
     width: 180px;
     border-radius: 1rem;
+    margin-bottom: .4rem;
 }
 
 .item-info {
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
     font-weight: bold;
 }
 
-.item-price {
+.item-price, .item-price span {
     color: var(--main-green-color);
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
 }
+
+.item-btn {
+    text-decoration: none;
+    color: #fff;
+    background-color: var(--main-green-color);
+    padding: .5rem 1.8rem;
+    border-radius: var(--default-border-radius);
+    transition: .3s;
+}
+
+.item-btn:hover {
+    background-color: var(--hover-green);
+}
+
 /* FIM DO CATÁLOGO */
 
 .util {
@@ -264,3 +300,5 @@ footer {
     justify-content: center;
     height: 200px;
 }
+
+/* RESPONSIVIDADE */
