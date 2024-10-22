@@ -51,6 +51,9 @@ Acompanhe o progresso do projeto no nosso quadro de atividades do Trello:
 
 [🔗 Link para o Trello - EcoBuild Quadro de Atividades](https://trello.com/invite/b/66ce9a537342df7bbc243bc0/ATTI2c21b7bd0577e32d9082624d67db9e7f0C790E21/ecobuild-quadro-de-atividades)
 
+## 👷 Diagrama de Atividades
+[🔗 Link para o Diagrama de Atividades](https://lucid.app/lucidchart/5e772447-e51c-463a-8f76-ef1908555f2e/edit?viewport_loc=-97%2C1%2C3000%2C1387%2C0_0&invitationId=inv_f78084c2-6c8a-4d69-b94f-c26ff5e2c948)
+
 ## Programação em Par
 
 ![Programação em Par](assets/images/Programacao_em_par.jpg)
