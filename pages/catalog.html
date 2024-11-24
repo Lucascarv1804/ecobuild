@@ -15,31 +15,66 @@
 
 <body>
     <header>
-        <div class="logo">
-            <a href="/index.html"><img src="/assets/images/transparent_logo.png" alt="logotipo ecobuild"></a>
+        <!-- Header Desktop -->
+        <div class="header-desktop">
+            <div class="logo">
+                <a href="/index.html">
+                    <img src="/assets/images/transparent_logo.png" alt="logotipo ecobuild">
+                </a>
+            </div>
+
+            <div class="search-bar">
+                <input type="text" name="search" id="search" placeholder="Buscar..." autocomplete="off">
+            </div>
+
+            <nav class="menu">
+                <ul>
+                    <li><a href="/pages/catalog.html">catálogo</a></li>
+                    <li><a href="#">impacto ambiental</a></li>
+                    <li><a href="#">chat</a></li>
+                </ul>
+            </nav>
+
+            <div class="right-side">
+                <button class="announce"><i class="bi bi-megaphone-fill"></i>anunciar</button>
+                <a class="account-btn" href="/pages/login.html"><i class="bi bi-person"></i></a>
+            </div>
         </div>
 
-        <div class="search-bar">
-            <input type="text" name="search" id="search" placeholder="Buscar..." autocomplete="off">
+        <!-- Header Mobile -->
+        <div class="header-mobile">
+            <div class="logo">
+                <a href="/index.html">
+                    <img src="/assets/images/transparent_logo.png" alt="logotipo ecobuild">
+                </a>
+            </div>
+
+            <div class="menu-toggle">
+                <a class="account-btn-mobile" href="/pages/login.html"><i class="bi bi-person"></i></a>
+                
+                <button class="toggle-btn" aria-label="Abrir menu">
+                    <i class="bi bi-list"></i>
+                </button>
+            </div>
         </div>
 
-        <nav class="menu">
-            <ul>
-                <li>
-                    <a class="selected" href="/pages/catalog.html">catálogo</a>
-                </li>
-                <li>
-                    <a href="#">impacto ambiental</a>
-                </li>
-                <li>
-                    <a href="#">chat</a>
-                </li>
-            </ul>
-        </nav>
-        
-        <div class="right-side">
-            <button class="announce"><i class="bi bi-megaphone-fill"></i>anunciar</button>
-            <a class="account-btn" href="/pages/login.html"><i class="bi bi-person"></i></a>
+        <!-- Menu Mobile -->
+        <div class="menu-mobile off">
+            <div class="search-bar-mobile">
+                <input type="text" name="search" id="search-mobile" placeholder="Buscar..." autocomplete="off">
+            </div>
+
+            <nav class="mobile-nav">
+                <ul>
+                    <li><a href="/pages/catalog.html">catálogo</a></li>
+                    <li><a href="#">impacto ambiental</a></li>
+                    <li><a href="#">chat</a></li>
+                </ul>
+            </nav>
+
+            <div class="right-side-mobile">
+                <button class="announce"><i class="bi bi-megaphone-fill"></i>anunciar</button>
+            </div>
         </div>
     </header>
 

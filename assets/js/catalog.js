@@ -67,3 +67,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.getElementById("order").addEventListener("change", ordenarProdutos);
 });
+
+// Header Mobile
+const toggleBtn = document.querySelector(".toggle-btn");
+const menuMobile = document.querySelector(".menu-mobile");
+
+toggleBtn.addEventListener("click", () => {
+    menuMobile.classList.toggle("off");
+});
