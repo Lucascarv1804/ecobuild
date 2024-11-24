@@ -139,3 +139,14 @@ footer {
     justify-content: center;
     height: 200px;
 }
+
+@media (max-width: 600px) {
+    form #email, form #password, #login-btn {
+        width: 300px;
+    }
+
+    .login-container {
+        padding: 2rem 1rem;
+        position: relative;
+    }
+}
